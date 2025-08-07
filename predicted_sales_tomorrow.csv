@@ -1,0 +1,26 @@
+Product,City,Predicted_Quantity
+Beverages,Berlin,0.0
+Burgers,Berlin,0.0
+Chicken Sandwiches,Berlin,0.0
+Fries,Berlin,0.0
+Sides & Other,Berlin,0.0
+Beverages,Lisbon,667.6300048828125
+Burgers,Lisbon,105.80999755859375
+Chicken Sandwiches,Lisbon,21.600000381469727
+Fries,Lisbon,0.0
+Sides & Other,Lisbon,49.52000045776367
+Beverages,London,77.47000122070312
+Burgers,London,51.70000076293945
+Chicken Sandwiches,London,21.690000534057617
+Fries,London,104.08000183105469
+Sides & Other,London,21.18000030517578
+Beverages,Madrid,0.03999999910593033
+Burgers,Madrid,0.009999999776482582
+Chicken Sandwiches,Madrid,0.019999999552965164
+Fries,Madrid,0.0
+Sides & Other,Madrid,0.0
+Beverages,Paris,0.009999999776482582
+Burgers,Paris,0.009999999776482582
+Chicken Sandwiches,Paris,0.0
+Fries,Paris,0.05999999865889549
+Sides & Other,Paris,0.0
